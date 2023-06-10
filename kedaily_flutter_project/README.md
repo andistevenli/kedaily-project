@@ -1,16 +1,2 @@
-# kedaily_flutter_project
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Slide 16_9 - 10](https://github.com/ndstvn/kedaily-project/assets/122267530/c3caa462-3683-429f-ae0d-b4ad472a2f80)
+![wkwk](https://github.com/ndstvn/kedaily-project/assets/122267530/81b2fe7c-5702-4108-85b6-ae5e9d84d7dc)
